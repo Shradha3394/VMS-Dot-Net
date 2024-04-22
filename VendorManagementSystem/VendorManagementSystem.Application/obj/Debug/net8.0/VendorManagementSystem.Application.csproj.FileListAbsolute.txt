@@ -1,0 +1,16 @@
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\bin\Debug\net8.0\VendorManagementSystem.Application.deps.json
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\bin\Debug\net8.0\VendorManagementSystem.Application.dll
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\bin\Debug\net8.0\VendorManagementSystem.Application.pdb
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\bin\Debug\net8.0\VendorManagementSystem.Models.dll
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\bin\Debug\net8.0\VendorManagementSystem.Models.pdb
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.csproj.AssemblyReference.cache
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.AssemblyInfoInputs.cache
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.AssemblyInfo.cs
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.sourcelink.json
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorMa.3BF187C6.Up2Date
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.dll
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\refint\VendorManagementSystem.Application.dll
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\VendorManagementSystem.Application.pdb
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Application\obj\Debug\net8.0\ref\VendorManagementSystem.Application.dll

@@ -1,0 +1,12 @@
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\bin\Debug\net8.0\VendorManagementSystem.Models.deps.json
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\bin\Debug\net8.0\VendorManagementSystem.Models.dll
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\bin\Debug\net8.0\VendorManagementSystem.Models.pdb
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\VendorManagementSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\VendorManagementSystem.Models.AssemblyInfoInputs.cache
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\VendorManagementSystem.Models.AssemblyInfo.cs
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\VendorManagementSystem.Models.csproj.CoreCompileInputs.cache
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\VendorManagementSystem.Models.sourcelink.json
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\VendorManagementSystem.Models.dll
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\refint\VendorManagementSystem.Models.dll
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\VendorManagementSystem.Models.pdb
+D:\Projects\vms-backend\VendorManagementSystem\VendorManagementSystem.Domain\obj\Debug\net8.0\ref\VendorManagementSystem.Models.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d0OlW09gvtI0cq4TzAQ8hTNXOYP3uuz1KMYTw6ZEbsM=",
+  "Source": "VendorManagementSystem.API",
+  "BasePath": "_content/VendorManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

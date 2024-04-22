@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\vms-backend\\VendorManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|d:\\projects\\vms-backend\\vendormanagementsystem\\vendormanagementsystem.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|solutionrelative:vendormanagementsystem.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|d:\\projects\\vms-backend\\vendormanagementsystem\\vendormanagementsystem.application\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|solutionrelative:vendormanagementsystem.application\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|d:\\projects\\vms-backend\\vendormanagementsystem\\vendormanagementsystem.application\\iservices\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|solutionrelative:vendormanagementsystem.application\\iservices\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|d:\\projects\\vms-backend\\vendormanagementsystem\\vendormanagementsystem.application\\dtos\\utilitydtos\\applicationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|solutionrelative:vendormanagementsystem.application\\dtos\\utilitydtos\\applicationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6EB756-0514-4A83-90E5-11FCB681A436}|VendorManagementSystem.API\\VendorManagementSystem.API.csproj|d:\\projects\\vms-backend\\vendormanagementsystem\\vendormanagementsystem.api\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6EB756-0514-4A83-90E5-11FCB681A436}|VendorManagementSystem.API\\VendorManagementSystem.API.csproj|solutionrelative:vendormanagementsystem.api\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6EB756-0514-4A83-90E5-11FCB681A436}|VendorManagementSystem.API\\VendorManagementSystem.API.csproj|d:\\projects\\vms-backend\\vendormanagementsystem\\vendormanagementsystem.api\\vendormanagementsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CC6EB756-0514-4A83-90E5-11FCB681A436}|VendorManagementSystem.API\\VendorManagementSystem.API.csproj|solutionrelative:vendormanagementsystem.api\\vendormanagementsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|d:\\projects\\vms-backend\\vendormanagementsystem\\vendormanagementsystem.application\\irepository\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC0CE7-4CDC-4567-BE6C-BCC77BFBF945}|VendorManagementSystem.Application\\VendorManagementSystem.Application.csproj|solutionrelative:vendormanagementsystem.application\\irepository\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "VendorManagementSystem.Application\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "VendorManagementSystem.Application\\Services\\TokenService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:22:27.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorService.cs",
+              "DocumentMoniker": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\Services\\VendorService.cs",
+              "RelativeDocumentMoniker": "VendorManagementSystem.Application\\Services\\VendorService.cs",
+              "ToolTip": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\Services\\VendorService.cs",
+              "RelativeToolTip": "VendorManagementSystem.Application\\Services\\VendorService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:04:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationResponseDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\Dtos\\UtilityDtos\\ApplicationResponseDTO.cs",
+              "RelativeDocumentMoniker": "VendorManagementSystem.Application\\Dtos\\UtilityDtos\\ApplicationResponseDTO.cs",
+              "ToolTip": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\Dtos\\UtilityDtos\\ApplicationResponseDTO.cs",
+              "RelativeToolTip": "VendorManagementSystem.Application\\Dtos\\UtilityDtos\\ApplicationResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:32:42.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVendorService.cs",
+              "DocumentMoniker": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\IServices\\IVendorService.cs",
+              "RelativeDocumentMoniker": "VendorManagementSystem.Application\\IServices\\IVendorService.cs",
+              "ToolTip": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\IServices\\IVendorService.cs",
+              "RelativeToolTip": "VendorManagementSystem.Application\\IServices\\IVendorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:32:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendorManagementSystem.API",
+              "DocumentMoniker": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.API\\VendorManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "VendorManagementSystem.API\\VendorManagementSystem.API.csproj",
+              "ToolTip": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.API\\VendorManagementSystem.API.csproj",
+              "RelativeToolTip": "VendorManagementSystem.API\\VendorManagementSystem.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T15:25:47.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.API\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "VendorManagementSystem.API\\Controllers\\VendorController.cs",
+              "ToolTip": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.API\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "VendorManagementSystem.API\\Controllers\\VendorController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:57:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\IRepository\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "VendorManagementSystem.Application\\IRepository\\IVendorRepository.cs",
+              "ToolTip": "D:\\Projects\\vms-backend\\VendorManagementSystem\\VendorManagementSystem.Application\\IRepository\\IVendorRepository.cs",
+              "RelativeToolTip": "VendorManagementSystem.Application\\IRepository\\IVendorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:54:40.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
